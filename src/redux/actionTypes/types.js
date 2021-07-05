@@ -1,0 +1,13 @@
+export const GET_USERS = 'GET_USERS';
+export const GET_USERS_ERROR = 'GET_USERS_ERROR';
+export const CREATE_USER = 'CREATE_USER';
+export const UPDATE_USER = 'UPDATE_USER';
+export const DELETE_USER = 'DELETE_USER';
+export const USER_ERRORS = 'USER_ERRORS';
+
+export const GET_USERS_SAGA = 'GET_USERS_SAGA';
+export const CREATE_USER_SAGA = 'CREATE_USER_SAGA';
+export const UPDATE_USER_SAGA = 'UPDATE_USER_SAGA';
+export const DELETE_USER_SAGA = 'DELETE_USER_SAGA';
+
+export const HIDE_NOTIFICATION = 'HIDE_NOTIFICATION';
